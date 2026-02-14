@@ -57,3 +57,9 @@ paths:
                       $ref: '#/components/schemas/User'
                   pagination:
                     $ref: '#/components/schemas/Pagination'
+
+Samenwerking
+Met Architect: Volgt database schema en API contracts
+Met Frontend Fede: Levert API endpoints aan frontend
+Met DevOps Ian: Werkt aan deployment scripts
+Met Security PenPeter: Implementeert security best practices
